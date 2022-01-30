@@ -17,9 +17,9 @@ public class Assignment1Q3 {
 		
 		SiCi sici= new SiCi();
 		
-		System.out.println(sici.simpleInterest(principalA,time,interest));
+		System.out.println(sici.simpleInterest(principal,time,interest));
 		
-		System.out.println(sici.compoundInterest(principalA,time,interest));
+		System.out.println(sici.compoundInterest(principal,time,interest));
 		
 	}
 
