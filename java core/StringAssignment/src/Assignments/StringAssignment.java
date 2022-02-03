@@ -43,7 +43,9 @@ public class StringAssignment {
 		else
 			System.out.println("Both strings do not match");
 		
-		if(str8.compareTo(str4)==0)
+		System.out.println(" ");
+		
+		if(str8.equalsIgnoreCase(str4))
 			System.out.println("Strings match");
 			
 		else
