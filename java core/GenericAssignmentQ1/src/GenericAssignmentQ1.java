@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 
-public class Mainn
+public class GenericAssignmentQ1
 {
 	public static void main(String args[])
 	{
